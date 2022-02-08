@@ -1,0 +1,14 @@
+.header {
+    height: 100vh;
+    background-color: black;
+}
+
+.header-nav {
+    list-style: none;
+    color: crimson;
+}
+
+.header-nav ul {
+    display: flex;
+    justify-content: space-around;
+}
